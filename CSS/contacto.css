@@ -1,0 +1,40 @@
+/*===========================
+        Fuente texto
+===========================*/
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap');
+
+/*===========================
+        Cuerpo
+===========================*/
+
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+
+/*===========================
+        Encabezado
+===========================*/
+
+#menu li > a{
+    font-size: 18px;
+    font-weight: bold;
+}
+
+#menu form > button {
+    font-size: 18px;
+    font-weight: bold;
+}
+
+#logo {
+    width: 100px;
+    height: 100px;
+}
+
+/*===========================
+           Fondo
+===========================*/
+
+#fondo {
+    max-height: 55rem;
+}
